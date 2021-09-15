@@ -1,0 +1,47 @@
+.logo
+{
+    width: auto;
+    height: auto;
+    margin-left: -10px;
+}
+#search
+{
+    display: inline-block;
+    background-color:white;
+    margin-right: 30px;
+}
+#bouton
+{
+    display: inline-block;
+}
+#navbarSupportedContent
+{
+    background-color: rgb(240, 200, 200);
+    margin-right: 150px;
+}
+.hero-section
+{
+    background-image: url(Acceuil_photo.jpeg);
+    height: 500px;
+    width: 1350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    font-size: large;
+    text-align: center;
+    color: white;
+    padding-top: 15rem;
+}
+.titre
+{
+    color: tomato;
+    font-style: oblique;
+}
+.para1
+{
+    font-size: large;
+    margin-left: 50px;
+    margin-top: 15px;
+    text-align: justify;
+
+}
