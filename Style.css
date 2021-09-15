@@ -7,12 +7,12 @@
 #search
 {
     display: inline-block;
-    background-color:white;
     margin-right: 30px;
 }
 #bouton
 {
     display: inline-block;
+    margin-left: 100px;
 }
 #navbarSupportedContent
 {
@@ -26,6 +26,7 @@
     background-image: url(Acceuil_photo.jpeg);
     height: 500px;
     width: 1350px;
+    border-radius: 75px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -55,16 +56,19 @@
 }
 #Pâtisserie
 {
+    border-radius: 40px;
     height: 300px;
     width: auto;
 }
 #Cosmétique
 {
+    border-radius: 40px;
     height: 300px;
     width: auto;
 }
 #Agroalimentaire
 {
+    border-radius: 40px;
     height: 300px;
     width: auto;
 }
@@ -75,9 +79,11 @@ h3
 }
 #Gâteau
 {
-    margin-left: 50px;
+    margin-left: 8px;
+    margin-bottom: 20px;
     height: 150px;
-    width: 250px;
+    width: 350px;
+    border-radius: 40px;
 }
 .Gâteau
 {
@@ -92,19 +98,29 @@ h3
 }
 #Teint
 {
-    margin-left: 50px;
+    margin-left: 9px;
+    margin-bottom: 20px;
     height: 150px;
-    width: 250px;
+    width: 350px;
+    border-radius: 40px;
 }
 #Huile
 {
-    margin-left: 50px;
+    margin-left: 8px;
+    margin-bottom: 20px;
     height: 150px;
-    width: 250px;
+    width: 350px;
+    border-radius: 40px;
 }
 .Huile
 {
     margin-left: 5px;
     text-align: justify;
     font-size: large;
+}
+.bas
+{
+    width: 5000px;
+    height: 250px;
+    background-color: rosybrown ;
 }
