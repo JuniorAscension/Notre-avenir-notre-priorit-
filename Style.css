@@ -121,7 +121,7 @@ h3
 .bas
 {
     width: 8000;
-    height: 250px;
+    height: 350px;
     border-radius: 40px;
     background-color: rosybrown ;
     background-size: cover;
@@ -133,4 +133,28 @@ h3
 {
     font-size: 90px;
     color: rosybrown;
+}
+.foot1
+{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: x-large;
+}
+.foot2
+{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: x-large;
+}
+.foot3
+{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: x-large;
 }

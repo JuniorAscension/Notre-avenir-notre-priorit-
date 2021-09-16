@@ -125,7 +125,24 @@
 <p class="défile"><marquee behavior="right" direction="left">Notre Avenir Notre Priorité</marquee></p>
 <div class="bas">
   <section class="footer">
-
+    <div class="row">
+      <div class="col-4">
+        <p class="foot1">
+         Contactez-nous <br> Mentions légales <br> Nos partenaires ONG
+        </p>
+      </div>
+      <div class="col-4">
+        <p class="foot2">
+          Adress: BP 127 Allada Bénin <br> Email: atchoujunior9@gmail.com <br> Contacts: 91321399/98738440
+        </p>
+      </div>
+      <div class="col-4">
+        <p class="foot3">
+          Notre Avenir Notre Priorité <br> 
+          <img src="" alt="">
+        </p>
+      </div>
+    </div>
   </section>
 </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
