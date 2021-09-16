@@ -9,7 +9,7 @@
     <title>Document</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
   <a class="navbar-brand" href="#"><img class="logo" src="Logo.png" alt="Logo du site"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -53,7 +53,7 @@
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-lg-6 para1">
+    <div class="col-lg-6 col-md-5 para1">
       <p class="titre"><h3><u>Que devrons-nous savoir ?</u></h3></p>
       <p>Beaucoup de besoins sont communs à tous les hommes: manger, s’abriter et s’habiller, par exemple.On peut facilement s’imaginer des millions de femmesdans toutes les parties du monde en train de peler des
       patates pour nourrir leur famille; des ouvriers en trainde construire des maisons et des métiers tissant des millions de verges de tissus pour nos vêtements.Mais il existe aussi des milliers de besoins personnels dont la poursuite distrait notre ennui. <br>
@@ -61,7 +61,7 @@
       en <em>Cosmétique</em> et en <em>Agro-Alimentaire</em>.Découvrer ces formations et lancer vous à entreprendre afin d'assurer votre avenir.
       </p>
     </div>
-    <div class="col-lg-5">
+    <div class="col-lg-5 col-md-6">
       <img class="img_Argent" src="Argent.jpeg" alt="image">
     </div>
   </div>
@@ -98,7 +98,7 @@
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-4">
+    <div class="col-lg-4 col-md-4">
       <h3><a href="#">Pâtisserie</a></h3>
       <img src="Gâteau.jpg" id="Gâteau" alt="photo">
       <p class="Gâteau">
@@ -106,7 +106,7 @@
       Dans cette rubrique apprenez à faire des <b>gâteaux cake</b>, des <b>gâteaux madeleine</b> et des <b>biscuits</b>.
       </p>
     </div>
-    <div class="col-4">
+    <div class="col-lg-4 col-md-4">
       <h3><a href="#">Cosmétique</a></h3>
       <img src="Teint.jpg" id="Teint" alt="photo">
       <p class="Teint">
@@ -114,7 +114,7 @@
       Découvrez au cours d'une formation meilleure, à faire du <b>savon de bain</b>, du <b>du savon liquide</b>, du <b>savon en poudre</b>, du <b>parfum</b>, <b>lait et pommade du corp</b>...
       </p>
   </div>
-  <div class="col-4">
+  <div class="col-lg-4 col-md-4">
     <h3><a href="#">Agroalimentaire</a></h3>
     <img src="Huile.jpg" id="Huile" alt="photo">
     <p class="Huile">
