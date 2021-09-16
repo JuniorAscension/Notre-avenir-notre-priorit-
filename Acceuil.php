@@ -47,8 +47,8 @@
 </nav>
 <div class="container-fluid">
   <section class="hero-section">
-      <h1>Bienvenue sur notre site.</h1>
-      <h2>Notre Avenir Notre Priorité</h2>
+    <h1>Bienvenue sur notre site.</h1>
+    <h2>Notre Avenir Notre Priorité</h2>
   </section>
 </div>
 <div class="container">
@@ -139,8 +139,16 @@
       <div class="col-4">
         <p class="foot3">
           Notre Avenir Notre Priorité <br> 
-          <img src="" alt="">
+          <img class="icone" src="iconedeinstagram.jpeg" alt="icone">
+          <img class="icone" src="iconedetwiter.png" alt="icone">
+          <img class="icone" src="iconewhastapp.png" alt="icone">
+          <img class="icone" src="logofacebook.png" alt="icone">
         </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col lg-12-md-12-sm-12">
+        <p class="droit">Copyright-2021 Tous droits réservés</p>
       </div>
     </div>
   </section>

@@ -158,3 +158,13 @@ h3
     margin-left: 10px;
     font-size: x-large;
 }
+.icone
+{
+    width: 25px;
+    height: 30px;
+}
+.droit
+{
+    text-align: center;
+    margin-top: 20px;
+}
