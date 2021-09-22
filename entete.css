@@ -1,0 +1,17 @@
+#search
+{
+    display: inline-block;
+    margin-right: 30px;
+}
+#bouton
+{
+    display: inline-block;
+    margin-left: 100px;
+}
+#navbarSupportedContent
+{
+    background-color: rgb(240, 200, 200);
+    margin-right: 150px;
+    margin-left: 200px;
+    border-radius: 40px;
+}

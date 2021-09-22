@@ -23,9 +23,10 @@
 }
 .hero-section
 {
-    background-image: url(Acceuil_photo.jpeg);
+    background-image:url(Acceuil_photo.jpeg);
     height: 500px;
     width: 1350px;
+    margin-top: 9%;
     border-radius: 75px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -126,9 +127,9 @@ h3
     border-radius: 40px;
     background-color: rosybrown ;
     background-size: cover;
-    margin-left: -120px;
-    margin-right: -120px;
-    margin-top: 150px;
+    margin-left: -10%;
+    margin-right: -10%;
+    margin-top: 20%;
 }
 .défile
 {
